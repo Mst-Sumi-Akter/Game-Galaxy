@@ -1,6 +1,6 @@
-# GameHub - A Game Library
+# GameGalaxy - A Game Library
 
-Live demo: https://storied-starlight-d69afa.netlify.app/
+Live demo:https://beamish-gecko-f98861.netlify.app/
 
 ## Purpose
 GameHub is an online library to discover and support indie game developers. Browse, read details, and install games.
